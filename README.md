@@ -14,9 +14,10 @@ I'm a **Python Developer** currently in my final year of **Information Technolog
 - **Tools:** Git & GitHub, Postman, VS Code
 
 ### 📌 Projects:
-- 🎵 **Music Player App** - Fetches and plays local music files with a custom UI
-- 🌐 **API-Based Projects** - Fetching and displaying data from free APIs
-- 🔍 **Machine Learning Exploration** - Experimenting with data-driven predictions
+- 🐾 **WoofWorld** – A dog care website with adoption listings, services, blog, and product store, powered by a custom CMS (Django + React)
+- 🎵 **Music Player App** – Fetches and plays local music files with a custom UI
+- 🌐 **API-Based Projects** – Fetching and displaying data from free APIs
+- 🔍 **Machine Learning Exploration** – Experimenting with data-driven predictions
 
 ### 📫 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaljoshi7)
